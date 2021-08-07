@@ -1,1 +1,1 @@
-I have designed the project using Arduino UNO  and simulated it using Proteus.
+I have designed the project using Arduino UNO  and simulated it using Proteus 8.
